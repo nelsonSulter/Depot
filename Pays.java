@@ -1,6 +1,6 @@
 
 public class Pays {
-	
+	// Easy money
 	private String nom;
 	private String langue;
 	private String monnaie;
