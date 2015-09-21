@@ -1,6 +1,7 @@
 
 public class Pays {
 	// Easy money 3.1
+	// Easy Money 4.189 (VN)
 	private String nom;
 	private String langue;
 	private String monnaie;
